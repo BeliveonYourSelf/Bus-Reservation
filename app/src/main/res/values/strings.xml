@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bus Reservation</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+    <string name="app_sub">An app for convenient bus seat booking, schedules, payments, and travel updates in Sri Lanka.</string>
+    <string name="login">Login</string>
+    <string name="welcome_back_to_the_app">Welcome back to the app</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="doesn_t_have_account_create_an_account">Doesn\'t have Account ?\n Create an account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_sign_in_here"><font color="#CD8885"> Already have an account?</font> <b><font color="#FF0000">Sign in here</font></b></string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_no">Phone No</string>
+
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="country">
+        <item>India</item>
+    </string-array>
+
+    <string-array name="state">
+        <item>Gujarat</item>
+    </string-array>
+    <string-array name="coty">
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+        <item>Vadodara</item>
+        <item>Rajkot</item>
+        <item>Gandhinagar</item>
+    </string-array>
+</resources>

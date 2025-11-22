@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorprimary">#D30A00</color>
+    <color name="colorSecoundary">#FEEEF0</color>
+    <color name="colorthird">#F8F8F8</color>
+    <color name="textcolorlight">#CD8885</color>
+    <color name="editbox">#4DD30A00</color>
+    <color name="green">#43A047</color>
+    <color name="oranges">#F5A522</color>
+    <color name="avilable">#DAD9DB</color>
+    <color name="grayish">#F5F5F5</color>
+</resources>

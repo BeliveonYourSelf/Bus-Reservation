@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BusReservation" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/colorprimary</item>
+        <item name="colorPrimaryContainer">@color/colorprimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/colorprimary</item>
+        <item name="colorAccent">@color/colorprimary</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/colorprimary</item>
+        <item name="colorSecondaryContainer">@color/colorprimary</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="Theme.BusReservation" parent="Base.Theme.BusReservation" />
+</resources>

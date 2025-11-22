@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginHori10">15dp</dimen>
+    <dimen name="marginStart10">15dp</dimen>
+    <dimen name="marginStart5">10dp</dimen>
+    <dimen name="marginTop10">15dp</dimen>
+    <dimen name="marginTop5">10dp</dimen>
+</resources>
